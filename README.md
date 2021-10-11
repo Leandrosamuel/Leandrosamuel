@@ -1,5 +1,5 @@
-### Hi there! I'm Leandro Samuel
-
+### Olá, Eu sou o Leandro Samuel! <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/2c8b3670d933220ae3c023fa1d568682975cce3f10799d0d3ff5ecac394b4ee8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31326f75664342304d795a31476f2f67697068792e676966"><img src="https://camo.githubusercontent.com/2c8b3670d933220ae3c023fa1d568682975cce3f10799d0d3ff5ecac394b4ee8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31326f75664342304d795a31476f2f67697068792e676966" width="39px" data-canonical-src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif"></a>
+##
 - 🔭 Estou a procura de um estagio
 - 🌱 Estudando Sistemas de informação
 - 📫 Contate-me no email: leandro.samu.m@hotmail.com
@@ -23,15 +23,9 @@
     <a href="mailto:leandro.samu.m@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&amp;logo=microsoft-outlook&amp;logoColor=white" style="max-width: 100%;"></a>
   </div>
 
-
-
-
-
-
-
-
-
-
-
-
-
+  <h3 align="center"><a id="user-content-total-de-visitas-no-perfil-detective-" class="anchor" aria-hidden="true" href="#total-de-visitas-no-perfil-detective-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Total de Visitas no perfil desde: 10/10/2021 <g-emoji class="g-emoji" alias="detective" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f575.png">🕵️</g-emoji> <br></h3>
+  
+<p align="center"> 
+   <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/31e783fd880a83f35e786f52823dca00112d544b4a1d8e4bbad7d8b576fb2158/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f746574657573417261756a6f2f636f756e742e737667">
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/Leandrosamuel/count.svg" /></p>
+ 
